@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jotaBigode
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning Unity and C#
